@@ -136,5 +136,6 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'georgerubinga@gmail.com'
+CONTACT_EMAIL   = 'georgerubinga@gmail.com'
+SITE_NAME       = 'Venture Academy' 
 EMAIL_HOST_PASSWORD = 'gjqtieuqpirjlmro'
-
